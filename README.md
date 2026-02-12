@@ -45,7 +45,9 @@ This project demonstrates front-end development skills including responsive desi
 
 -Font Awesome
 ## 📸 Screenshots
-
+![Home Page](flair/assets/img/index.png)
+![Home Page](flair/assets/img/contact.png)
+![Home Page](flair/assets/img/blog.png)
 ## 💻 How to Run Locally
 
 1. Download or Clone this repository:
