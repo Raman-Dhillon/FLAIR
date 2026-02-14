@@ -52,7 +52,7 @@ This project demonstrates front-end development skills including responsive desi
 
 1. Download or Clone this repository:
 
-  git clone:- https://github.com/Raman-Dhillon/interior-flair.git
+  git clone:- https://github.com/Raman-Dhillon/FLAIR.git
 
 2. Open folder in VS Code
 
